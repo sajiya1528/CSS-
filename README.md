@@ -4,7 +4,6 @@
 
 
 
-
 🎨 CSS (Cascading Style Sheets)
 
 CSS is a style sheet language used to design and style web pages.
@@ -14,39 +13,37 @@ CSS works together with HTML to make websites attractive, user-friendly, and pro
 
 🎯 Uses of CSS
 
-To add colors, fonts, and styles to web pages
+ . To add colors, fonts, and styles to web pages
 
-To control the layout and alignment of elements
+ . To control the layout and alignment of elements
 
-To make websites visually attractive
+ . To make websites visually attractive
 
-To create responsive designs for mobile, tablet, and desktop
+ . To create responsive designs for mobile, tablet, desktop
 
-To separate design from content (HTML)
+ . To separate design from content (HTML)
 
 ⭐ Features of CSS
 
-Easy to learn and use
+ . Easy to learn and use
 
-Saves time by styling multiple pages at once
+ . Saves time by styling multiple pages at once
 
-Improves website appearance
+ . Improves website appearance
 
-Supports responsive design
+ . Supports responsive design
 
-Reduces HTML code complexity
-
-Compatible with all modern browsers
+ . Reduces HTML code complexity
 
 🧩 Why CSS is Important?
 
-Makes websites look clean and professional
+ . Makes websites look clean and professional
 
-Improves user experience
+ . Improves user experience
 
-Helps maintain consistency across web pages
+ . Helps maintain consistency across web pages
 
-Allows easy updates to design without changing HTML
+ . Allows easy updates to design without changing HTML
 
 📁 Types of CSS
 
@@ -54,169 +51,158 @@ CSS can be applied in three different ways:
 
 1️⃣ Inline CSS
 
-Applied directly inside HTML elements
+ . Applied directly inside HTML elements
 
-Used for quick and small styling
+ . Used for quick and small styling
 
-Not recommended for large projects
+ . Not recommended for large projects
 
 2️⃣ Internal CSS
 
-Written inside the HTML file
+ . Written inside the HTML file
 
-Useful for styling a single page
+ . Useful for styling a single page
 
-Better than inline CSS but limited
+ . Better than inline CSS but limited
 
 3️⃣ External CSS
 
-Written in a separate CSS file
+ . Written in a separate CSS file
 
-Best method for large websites
+ . Best method for large websites
 
-Easy to manage and reuse
+ . Easy to manage and reuse
 
 🎨 CSS Properties (What CSS Can Control)
 
-CSS helps control different design aspects such as:
+ . CSS helps control different design aspects such as:
 
-Text color and background color
+ . Text color and background color
 
-Font size, font style, and font family
+ . Font size, font style, and font family
 
-Spacing (margin and padding)
+ . Spacing (margin and padding)
 
-Layout and alignment
+ . Layout and alignment
 
-Borders and shadows
+ . Borders and shadows
 
 📐 CSS Layout Concepts
 
-CSS helps arrange elements on a web page using:
+ . CSS helps arrange elements on a web page using:
 
-Block and inline elements
+ . Block and inline elements
 
-Page alignment and positioning
+ . Page alignment and positioning
 
-Modern layouts for responsive design
+ . Modern layouts for responsive design
 
 📱 Responsive Design
 
-Responsive design means a website adjusts itself according to screen size.
+ . Responsive design means a website adjusts itself according to screen size.
 
 Benefits:
 
-Works well on mobile phones
+ . Works well on mobile phones
 
-Better user experience
+ . Better user experience
 
-Improves SEO ranking
+ . Improves SEO ranking
 
-One website for all devices
+ . One website for all devices
 
 🔄 Advantages of CSS
 
-Faster website loading
+ . Faster website loading
 
-Clean and organized design
+ . Clean and organized design
 
-Easy maintenance
+ . Easy maintenance
 
-Better control over layout
+ . Better control over layout
 
-Reusable styles
+ . Reusable styles
 
 ⚠️ Limitations of CSS
 
-Browser compatibility issues
+ . Browser compatibility issues
 
-Complex layouts can be difficult for beginners
+ . Complex layouts can be difficult for beginners
 
-Requires practice to master
+ . Requires practice to master
 
 📘 CSS in Web Development
 
-CSS is a core technology of web development along with:
+ . CSS is a core technology of web development along with:
 
-HTML (Structure)
+ . HTML (Structure)
 
-CSS (Design)
+ . CSS (Design)
 
-JavaScript (Functionality)
-
-Together, they create complete and interactive websites.
-
-
-
-
-emojis
+ . JavaScript (Functionality)
 
 🏷️ HTML Tags Commonly Used with CSS
 
-CSS is used to style HTML elements.
+ . CSS is used to style HTML elements.
 Below are the most commonly used HTML tags that work with CSS.
 
 🧱 Structure Tags
 
-html – Root of the web page
+ . html – Root of the web page
 
-body – Visible page content
+ . body – Visible page content
 
-header – Top section of the page
+ . header – Top section of the page
 
-footer – Bottom section of the page
+ . footer – Bottom section of the page
 
-section – Content sections
+ . section – Content sections
 
-div – Container element
+ . div – Container element
 
 📝 Text & Content Tags
 
-h1–h6 – Headings
+ . h1–h6 – Headings
 
-p – Paragraph
+ . p – Paragraph
 
-span – Inline text
+ . span – Inline text
 
-strong / em – Bold and italic text
+ . strong / em – Bold and italic text
 
 🔗 Media & Links
 
-a – Links
+ . a – Links
 
-img – Images
+ . img – Images
 
-video / audio – Media content
+ . video / audio – Media content
 
 📋 Lists & Forms
 
-ul / ol / li – Lists
+ . ul / ol / li – Lists
 
-form, input, textarea, button – Forms
+ . form, input, textarea, button – Forms
 
 📐 Tables
 
-table, tr, th, td – Table structure
+ . table, tr, th, td – Table structure
 
 🎨 Styling Attributes
 
-class – Styles multiple elements
+ . class – Styles multiple elements
 
-id – Styles one unique element
+ . id – Styles one unique element
 
 🧩 Basic HTML Structure (Simple)
 
-An HTML page follows a basic structure:
+ . An HTML page follows a basic structure:
 
-Doctype defines the document type
+ . Doctype defines the document type
 
-html wraps the entire page
+ . html wraps the entire page
 
-head contains page information
-
-body contains visible content
-
-CSS is mainly applied to elements inside the body section.
+ . CSS is mainly applied to elements inside the body section.
 
 ✅ Conclusion
 
