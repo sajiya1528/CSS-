@@ -1,0 +1,60 @@
+#box1{
+   height: 100px;
+   width: 200px;
+   background-color: aquamarine;
+   font-size: 10px;
+}
+#box2{
+   height: 50px;
+   width: 50px;
+   background-color: coral;
+   margin-left: 10%;
+   font-size: 2em;
+   width: 5rem;
+   height: 25vh;
+   
+}
+div{
+   height: 100px;
+   width: 100px;
+   background-color: limegreen;
+   border: 2px solid black;
+   display: inline-block;
+}
+#box3{
+   position: static;
+}
+#box4{
+   position: relative;
+   top: 20px;
+   left: 10px;
+   z-index: 2;
+}
+#box5{
+   position: absolute;
+   top: 50px;
+   left: 20px;
+}
+#box6{
+   position: fixed;
+   top: 50px;
+   
+}
+#box7{
+   background-image:url(./car\ image.webp) ;
+   background-size: cover;
+
+}
+#box8{
+   background-image: url(./pic.jpeg);
+   background-size: contain;
+}
+#box9{
+   background-image: url(./pic.jpeg);
+   background-position: center;
+}
+#box10{
+   background-image: url(./pic.jpeg);
+   background-size: auto;
+   background-repeat: no-repeat;}
+

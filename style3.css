@@ -1,3 +1,31 @@
 div{
 height: 100px;
+background-color: rgb(151, 190, 43);
+width: 100px;
+/* border-width: 4px;
+border-style: solid;
+/* border-color: rgb(2, 1, 1); */
+border: 5px solid rgb(19, 10, 10);
+/* border-radius:20% ; */
+/* padding-left: 25px; */
+/* padding-bottom: 10px; */
+padding: 25px;
+margin-top: 25px;
+display: inline-block;
+
+}
+div2{
+    visibility: hidden;
+}
+
+
+h1{
+    width: 200px;
+    height: 50px;
+        background-color: aqua;
+    /* border-width: 4px;
+    border-style: dotted;
+    border: 4px dotted rgb(10, 1, 1); */
+    border: 4px dotted rgb(10, 1, 1);
+    text-align: center;
 }
