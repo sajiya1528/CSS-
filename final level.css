@@ -1,0 +1,51 @@
+div{
+    height: 140px;
+    width: 140px;
+    /* border-radius: 50%; */
+    background-color: #c24343;
+    border: 5px solid #000000;
+    position: absolute;
+    top:50%;
+    left:50%;
+    /* transition-property: all; */
+    /* transition-duration: 2s; */
+    /* transition-timing-function: steps(3); */
+    /* transition-timing-function: ease-in; */
+    /* transition-delay: 1s; */
+    /* transition: all 2s ease-in 1s; */
+    /* transform: rotate(180deg); */
+    /* rotate: x 180deg; */
+    /* transform: scale(2,1); */
+    /* transform: all 2s ease-in; */
+    /* animation-name: coloanimation;
+    animation-duration: 2s; */
+    /* animation-timing-function: ease-in; */
+    /* animation-delay: 0s;
+    animation-iteration-count: infinite; */
+    animation: coloanimation 2s ease-in 0s infinite;
+}
+@keyframes coloanimation{
+    0%{ left:0px; background-color: yellow; color: black;}
+  50%{
+    background-color: blue;
+  }
+  
+    100% { left : 200px; background-color: red; color: white;}
+
+    
+}
+
+
+div:hover {
+    /* background-color: #43c2a6; */
+    /* color: aliceblue; */
+    /* font-size: 20px; */
+    /* transform: scale(2); */
+    /* transform: rotate(190deg); */
+    /* transform: translateX(100px) translateY(80px); */
+    /* transform: skew(30deg); */
+}
+div:active{
+    background-color: rgb(179, 113, 14);
+
+}
