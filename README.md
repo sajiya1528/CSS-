@@ -6,7 +6,7 @@
 🎯 Ideal for beginners who want to build visually clean and structured websites.
 </p>
 
----
+<hr>
 
 <h2 align="center">📌 What is CSS?</h2>
 
@@ -16,7 +16,7 @@ It controls how HTML elements appear on screen — including colors, fonts, layo
 CSS works together with HTML to create attractive, user-friendly, and professional websites.
 </p>
 
----
+<hr>
 
 <h2 align="center">🎯 Uses of CSS</h2>
 
@@ -28,7 +28,7 @@ CSS works together with HTML to create attractive, user-friendly, and profession
 ✔️ Separate design from HTML structure
 </p>
 
----
+<hr>
 
 <h2 align="center">⭐ Features of CSS</h2>
 
@@ -40,7 +40,7 @@ CSS works together with HTML to create attractive, user-friendly, and profession
 ✨ Reduces HTML complexity
 </p>
 
----
+<hr>
 
 <h2 align="center">🧩 Why CSS is Important?</h2>
 
@@ -51,7 +51,7 @@ CSS works together with HTML to create attractive, user-friendly, and profession
 ✔️ Easy design updates without editing HTML
 </p>
 
----
+<hr>
 
 <h2 align="center">📁 Types of CSS</h2>
 
@@ -59,7 +59,7 @@ CSS works together with HTML to create attractive, user-friendly, and profession
 CSS can be applied in three ways:
 </p>
 
----
+<hr>
 
 <h3 align="center">1️⃣ Inline CSS</h3>
 
@@ -69,7 +69,7 @@ CSS can be applied in three ways:
 • Not recommended for large projects
 </p>
 
----
+<hr>
 
 <h3 align="center">2️⃣ Internal CSS</h3>
 
@@ -79,7 +79,7 @@ CSS can be applied in three ways:
 • Better than inline CSS
 </p>
 
----
+<hr>
 
 <h3 align="center">3️⃣ External CSS</h3>
 
@@ -89,30 +89,19 @@ CSS can be applied in three ways:
 • Easy to manage and reuse
 </p>
 
----
+<hr>
 
-<h2 align="center">🎨 CSS Properties (What CSS Controls)</h2>
+<h2 align="center">🎨 CSS Properties</h2>
 
 <p align="center">
 ✔️ Text & Background Colors <br>
 ✔️ Font Size, Style & Family <br>
-✔️ Margin & Padding (Spacing) <br>
+✔️ Margin & Padding <br>
 ✔️ Layout & Alignment <br>
 ✔️ Borders & Shadows
 </p>
 
----
-
-<h2 align="center">📐 CSS Layout Concepts</h2>
-
-<p align="center">
-✔️ Block & Inline Elements <br>
-✔️ Positioning & Alignment <br>
-✔️ Flexbox & Grid Layout <br>
-✔️ Modern Responsive Layouts
-</p>
-
----
+<hr>
 
 <h2 align="center">📱 Responsive Design</h2>
 
@@ -121,54 +110,15 @@ Responsive design means a website adjusts automatically according to screen size
 </p>
 
 <p align="center">
-<strong>Benefits:</strong> <br>
 ✔️ Works on mobile devices <br>
 ✔️ Better user experience <br>
 ✔️ Improved SEO ranking <br>
 ✔️ One website for all devices
 </p>
 
----
-
-<h2 align="center">🔄 Advantages of CSS</h2>
-
-<p align="center">
-✔️ Faster loading speed <br>
-✔️ Clean & organized design <br>
-✔️ Easy maintenance <br>
-✔️ Reusable styles <br>
-✔️ Better layout control
-</p>
-
----
-
-<h2 align="center">⚠️ Limitations of CSS</h2>
-
-<p align="center">
-❌ Browser compatibility issues <br>
-❌ Complex layouts may be challenging <br>
-❌ Requires practice to master
-</p>
-
----
-
-<h2 align="center">📘 CSS in Web Development</h2>
-
-<p align="center">
-CSS is a core technology of web development:
-</p>
-
-<p align="center">
-🏗️ HTML – Structure <br>
-🎨 CSS – Design <br>
-⚡ JavaScript – Functionality
-</p>
-
----
+<hr>
 
 <h2 align="center">🏷️ HTML Tags Commonly Styled with CSS</h2>
-
----
 
 <h3 align="center">🧱 Structure Tags</h3>
 
@@ -176,23 +126,17 @@ CSS is a core technology of web development:
 html, body, header, footer, section, div
 </p>
 
----
-
 <h3 align="center">📝 Text & Content Tags</h3>
 
 <p align="center">
 h1–h6, p, span, strong, em
 </p>
 
----
-
 <h3 align="center">🔗 Media & Links</h3>
 
 <p align="center">
 a, img, video, audio
 </p>
-
----
 
 <h3 align="center">📋 Lists & Forms</h3>
 
@@ -201,24 +145,22 @@ ul, ol, li <br>
 form, input, textarea, button
 </p>
 
----
-
 <h3 align="center">📐 Tables</h3>
 
 <p align="center">
 table, tr, th, td
 </p>
 
----
+<hr>
 
-<h3 align="center">🎨 Styling Attributes</h3>
+<h3>🎨 Styling Attributes</h3>
 
-<p align="center">
-class – For multiple elements <br>
-id – For unique elements
-</p>
+<ul>
+  <li><strong>class</strong> – Used to style multiple elements</li>
+  <li><strong>id</strong> – Used to style a unique element</li>
+</ul>
 
----
+<hr>
 
 <h2 align="center">🧩 Basic HTML Structure</h2>
 
@@ -228,11 +170,21 @@ id – For unique elements
 ✔️ CSS is applied mainly inside the body section
 </p>
 
----
+<hr>
 
 <h2 align="center">✅ Conclusion</h2>
 
 <p align="center">
 CSS styles HTML elements to control layout, colors, fonts, and spacing.  
 Understanding basic structure and tags makes CSS easier to learn and apply effectively. 🚀
+</p>
+
+<hr>
+
+<h2>👩‍💻 Author</h2>
+
+<p>
+<strong>Sajiya Nazir</strong> <br>
+Frontend Developer 💻 <br>
+GitHub: <a href="https://github.com/sajiya1528">https://github.com/sajiya1528</a>
 </p>
