@@ -1,190 +1,170 @@
-<h1 align="center">🎨 CSS (Cascading Style Sheets)</h1>
+# 🎨 CSS (Cascading Style Sheets)
 
-<p align="center">
 🌟 This repository focuses on learning CSS from scratch.  
 ✨ It explains how to style web pages using colors, fonts, layouts, and spacing.  
 🎯 Ideal for beginners who want to build visually clean and structured websites.
-</p>
 
-<hr>
+---
 
-<h2 align="center">📌 What is CSS?</h2>
+## 📌 What is CSS?
 
-<p align="center">
 CSS is a style sheet language used to design and style web pages.  
 It controls how HTML elements appear on screen — including colors, fonts, layouts, spacing, and responsiveness.  
 CSS works together with HTML to create attractive, user-friendly, and professional websites.
-</p>
 
-<hr>
+---
 
-<h2 align="center">🎯 Uses of CSS</h2>
+## 🎯 Uses of CSS
 
-<p align="center">
-✔️ Add colors, fonts, and visual styles <br>
-✔️ Control layout and alignment <br>
-✔️ Create attractive UI designs <br>
-✔️ Build responsive websites 📱 <br>
-✔️ Separate design from HTML structure
-</p>
+✔️ Add colors, fonts, and visual styles  
+✔️ Control layout and alignment  
+✔️ Create attractive UI designs  
+✔️ Build responsive websites 📱  
+✔️ Separate design from HTML structure  
 
-<hr>
+---
 
-<h2 align="center">⭐ Features of CSS</h2>
+## ⭐ Features of CSS
 
-<p align="center">
-✨ Easy to learn and implement <br>
-✨ Style multiple pages at once <br>
-✨ Improves website appearance <br>
-✨ Supports responsive design <br>
-✨ Reduces HTML complexity
-</p>
+✨ Easy to learn and implement  
+✨ Style multiple pages at once  
+✨ Improves website appearance  
+✨ Supports responsive design  
+✨ Reduces HTML complexity  
 
-<hr>
+---
 
-<h2 align="center">🧩 Why CSS is Important?</h2>
+## 🧩 Why CSS is Important?
 
-<p align="center">
-✔️ Makes websites clean and professional <br>
-✔️ Improves user experience (UX) <br>
-✔️ Maintains design consistency <br>
-✔️ Easy design updates without editing HTML
-</p>
+✔️ Makes websites clean and professional  
+✔️ Improves user experience (UX)  
+✔️ Maintains design consistency  
+✔️ Easy design updates without editing HTML  
 
-<hr>
+---
 
-<h2 align="center">📁 Types of CSS</h2>
+## 📁 Types of CSS
 
-<p align="center">
 CSS can be applied in three ways:
-</p>
 
-<hr>
+### 1️⃣ Inline CSS
+• Applied directly inside HTML elements  
+• Used for quick styling  
+• Not recommended for large projects  
 
-<h3 align="center">1️⃣ Inline CSS</h3>
+### 2️⃣ Internal CSS
+• Written inside the HTML file  
+• Useful for single-page styling  
+• Better than inline CSS  
 
-<p align="center">
-• Applied directly inside HTML elements <br>
-• Used for quick styling <br>
-• Not recommended for large projects
-</p>
+### 3️⃣ External CSS
+• Written in a separate .css file  
+• Best method for large projects  
+• Easy to manage and reuse  
 
-<hr>
+---
 
-<h3 align="center">2️⃣ Internal CSS</h3>
+## 🎨 CSS Properties
 
-<p align="center">
-• Written inside the HTML file <br>
-• Useful for single-page styling <br>
-• Better than inline CSS
-</p>
+✔️ Text & Background Colors  
+✔️ Font Size, Style & Family  
+✔️ Margin & Padding  
+✔️ Layout & Alignment  
+✔️ Borders & Shadows  
 
-<hr>
+---
 
-<h3 align="center">3️⃣ External CSS</h3>
+## 📐 CSS Layout Concepts
 
-<p align="center">
-• Written in a separate .css file <br>
-• Best method for large projects <br>
-• Easy to manage and reuse
-</p>
+✔️ Block & Inline Elements  
+✔️ Positioning & Alignment  
+✔️ Flexbox & Grid Layout  
+✔️ Modern Responsive Layouts  
 
-<hr>
+---
 
-<h2 align="center">🎨 CSS Properties</h2>
+## 📱 Responsive Design
 
-<p align="center">
-✔️ Text & Background Colors <br>
-✔️ Font Size, Style & Family <br>
-✔️ Margin & Padding <br>
-✔️ Layout & Alignment <br>
-✔️ Borders & Shadows
-</p>
-
-<hr>
-
-<h2 align="center">📱 Responsive Design</h2>
-
-<p align="center">
 Responsive design means a website adjusts automatically according to screen size.
-</p>
 
-<p align="center">
-✔️ Works on mobile devices <br>
-✔️ Better user experience <br>
-✔️ Improved SEO ranking <br>
-✔️ One website for all devices
-</p>
+**Benefits:**
 
-<hr>
+✔️ Works on mobile devices  
+✔️ Better user experience  
+✔️ Improved SEO ranking  
+✔️ One website for all devices  
 
-<h2 align="center">🏷️ HTML Tags Commonly Styled with CSS</h2>
+---
 
-<h3 align="center">🧱 Structure Tags</h3>
+## 🔄 Advantages of CSS
 
-<p align="center">
-html, body, header, footer, section, div
-</p>
+✔️ Faster loading speed  
+✔️ Clean & organized design  
+✔️ Easy maintenance  
+✔️ Reusable styles  
+✔️ Better layout control  
 
-<h3 align="center">📝 Text & Content Tags</h3>
+---
 
-<p align="center">
-h1–h6, p, span, strong, em
-</p>
+## ⚠️ Limitations of CSS
 
-<h3 align="center">🔗 Media & Links</h3>
+❌ Browser compatibility issues  
+❌ Complex layouts may be challenging  
+❌ Requires practice to master  
 
-<p align="center">
-a, img, video, audio
-</p>
+---
 
-<h3 align="center">📋 Lists & Forms</h3>
+## 📘 CSS in Web Development
 
-<p align="center">
-ul, ol, li <br>
-form, input, textarea, button
-</p>
+CSS is a core technology of web development:
 
-<h3 align="center">📐 Tables</h3>
+🏗️ HTML – Structure  
+🎨 CSS – Design  
+⚡ JavaScript – Functionality  
 
-<p align="center">
-table, tr, th, td
-</p>
+---
 
-<hr>
+## 🏷️ HTML Tags Commonly Styled with CSS
 
-<h3>🎨 Styling Attributes</h3>
+### 🧱 Structure Tags
+html, body, header, footer, section, div  
 
-<ul>
-  <li><strong>class</strong> – Used to style multiple elements</li>
-  <li><strong>id</strong> – Used to style a unique element</li>
-</ul>
+### 📝 Text & Content Tags
+h1–h6, p, span, strong, em  
 
-<hr>
+### 🔗 Media & Links
+a, img, video, audio  
 
-<h2 align="center">🧩 Basic HTML Structure</h2>
+### 📋 Lists & Forms
+ul, ol, li  
+form, input, textarea, button  
 
-<p align="center">
-✔️ DOCTYPE defines document type <br>
-✔️ html wraps the entire page <br>
-✔️ CSS is applied mainly inside the body section
-</p>
+### 📐 Tables
+table, tr, th, td  
 
-<hr>
+### 🎨 Styling Attributes
+- **class** – Used to style multiple elements  
+- **id** – Used to style a unique element  
 
-<h2 align="center">✅ Conclusion</h2>
+---
 
-<p align="center">
+## 🧩 Basic HTML Structure
+
+✔️ DOCTYPE defines document type  
+✔️ html wraps the entire page  
+✔️ CSS is applied mainly inside the body section  
+
+---
+
+## ✅ Conclusion
+
 CSS styles HTML elements to control layout, colors, fonts, and spacing.  
-Understanding basic structure and tags makes CSS easier to learn and apply effectively. 🚀
-</p>
+Understanding basic structure and tags makes CSS easier to learn and apply effectively. 🚀  
 
-<hr>
+---
 
-<h2>👩‍💻 Author</h2>
+## 👩‍💻 Author
 
-<p>
-<strong>Sajiya Nazir</strong> <br>
-Frontend Developer 💻 <br>
-GitHub: <a href="https://github.com/sajiya1528">https://github.com/sajiya1528</a>
-</p>
+**Sajiya Nazir**  
+Frontend Developer 💻  
+GitHub: https://github.com/yourusername
